@@ -7,6 +7,7 @@
   - [筆記](https://www.notion.so/Diffusion-Models-30c04492ec1d4e65a3f470a5d25c39ca)
 - [CVPR 2022 Tutorial: Denoising Diffusion-based Generative Modeling: Foundations and Applications](https://cvpr2022-tutorial-diffusion-models.github.io/)
   - [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/pdf/2206.00364.pdf)
+- [Creative Explorations with DALL-E 2](https://aaronhertzmann.com/2022/05/25/dall-e.html)
  
 ## others
 
