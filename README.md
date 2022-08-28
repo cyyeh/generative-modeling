@@ -7,3 +7,8 @@
   - [筆記](https://www.notion.so/Diffusion-Models-30c04492ec1d4e65a3f470a5d25c39ca)
 - [CVPR 2022 Tutorial: Denoising Diffusion-based Generative Modeling: Foundations and Applications](https://cvpr2022-tutorial-diffusion-models.github.io/)
   - [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/pdf/2206.00364.pdf)
+ 
+## others
+
+- [MIT6.S192: Deep Creativity](https://ali-design.github.io/deepcreativity/)
+- [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
