@@ -13,3 +13,4 @@
 
 - [MIT6.S192: Deep Creativity](https://ali-design.github.io/deepcreativity/)
 - [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
+- [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
